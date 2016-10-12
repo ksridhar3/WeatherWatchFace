@@ -1,5 +1,5 @@
-# Go Ubiquitous
-Go Ubiquitous
+# Weather watchface
+Weather watchface
 
 Please add the API key in build.gradle file of the application
 
@@ -9,11 +9,11 @@ For example:
         it.buildConfigField 'String', 'OPEN_WEATHER_MAP_API_KEY', "\"e26329c0a3e84116eefec265feaba211\""
     }
 
-# Assignment -  Go Ubiquitous
+# Assignment -  Weather watchface
 
 To build a watch face for a weather application.
 
-Submitted by: Madhuri Athota
+Submitted by: Sridhar
 
 ## User Stories
 
@@ -28,7 +28,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/amadhuri/Go-Ubiquitous/blob/master/watchface.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+#<img src='https://github.com/amadhuri/Go-Ubiquitous/blob/master/watchface.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
