@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\build\\intermediates\\res\\merged\\debug\\transition-land-v21\\details_window_enter_transition.xml",
+        "source": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\src\\main\\res\\transition-land-v21\\details_window_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\build\\intermediates\\res\\merged\\debug\\transition-land-v21\\details_window_return_transition.xml",
+        "source": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\src\\main\\res\\transition-land-v21\\details_window_return_transition.xml"
+    }
+]

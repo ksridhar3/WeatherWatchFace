@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\today_touch_selector.xml",
+        "source": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\src\\main\\res\\drawable-v21\\today_touch_selector.xml"
+    },
+    {
+        "merged": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\touch_selector.xml",
+        "source": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\src\\main\\res\\drawable-v21\\touch_selector.xml"
+    },
+    {
+        "merged": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\touch_selector_activated.xml",
+        "source": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\src\\main\\res\\drawable-v21\\touch_selector_activated.xml"
+    },
+    {
+        "merged": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\touch_selector_base.xml",
+        "source": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\src\\main\\res\\drawable-v21\\touch_selector_base.xml"
+    },
+    {
+        "merged": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\touch_selector_white.xml",
+        "source": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\src\\main\\res\\drawable-v21\\touch_selector_white.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info_detail.xml",
+        "source": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\src\\main\\res\\xml\\widget_info_detail.xml"
+    },
+    {
+        "merged": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
+        "source": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\src\\main\\res\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info_today.xml",
+        "source": "C:\\Drive\\MyProjects\\Go-Ubiquitous\\app\\src\\main\\res\\xml\\widget_info_today.xml"
+    }
+]
