@@ -13,7 +13,7 @@ For example:
 
 To build a watch face for a weather application.
 
-Submitted by: Sridhar
+Submitted by: Taken from Madhuris Project to improve new features.
 
 ## User Stories
 
@@ -27,8 +27,6 @@ The following **required** functionality is completed:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-
-#<img src='https://github.com/amadhuri/Go-Ubiquitous/blob/master/watchface.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
